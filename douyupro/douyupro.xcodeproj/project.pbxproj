@@ -7,53 +7,53 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		478D6FF12D2D0FED0075AA38 /* PBXContainerItemProxy */ = {
+		478D70812D2D27210075AA38 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 478D6FD22D2D0FE80075AA38 /* Project object */;
+			containerPortal = 478D70622D2D271E0075AA38 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 478D6FD92D2D0FE80075AA38;
+			remoteGlobalIDString = 478D70692D2D271E0075AA38;
 			remoteInfo = douyupro;
 		};
-		478D6FFB2D2D0FED0075AA38 /* PBXContainerItemProxy */ = {
+		478D708B2D2D27210075AA38 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 478D6FD22D2D0FE80075AA38 /* Project object */;
+			containerPortal = 478D70622D2D271E0075AA38 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 478D6FD92D2D0FE80075AA38;
+			remoteGlobalIDString = 478D70692D2D271E0075AA38;
 			remoteInfo = douyupro;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		478D6FDA2D2D0FE80075AA38 /* douyupro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = douyupro.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		478D6FF02D2D0FED0075AA38 /* douyuproTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = douyuproTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		478D6FFA2D2D0FED0075AA38 /* douyuproUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = douyuproUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		478D706A2D2D271E0075AA38 /* douyupro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = douyupro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		478D70802D2D27210075AA38 /* douyuproTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = douyuproTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		478D708A2D2D27210075AA38 /* douyuproUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = douyuproUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		478D70022D2D0FED0075AA38 /* Exceptions for "douyupro" folder in "douyupro" target */ = {
+		478D70922D2D27210075AA38 /* Exceptions for "douyupro" folder in "douyupro" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 478D6FD92D2D0FE80075AA38 /* douyupro */;
+			target = 478D70692D2D271E0075AA38 /* douyupro */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		478D6FDC2D2D0FE80075AA38 /* douyupro */ = {
+		478D706C2D2D271E0075AA38 /* douyupro */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				478D70022D2D0FED0075AA38 /* Exceptions for "douyupro" folder in "douyupro" target */,
+				478D70922D2D27210075AA38 /* Exceptions for "douyupro" folder in "douyupro" target */,
 			);
 			path = douyupro;
 			sourceTree = "<group>";
 		};
-		478D6FF32D2D0FED0075AA38 /* douyuproTests */ = {
+		478D70832D2D27210075AA38 /* douyuproTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = douyuproTests;
 			sourceTree = "<group>";
 		};
-		478D6FFD2D2D0FED0075AA38 /* douyuproUITests */ = {
+		478D708D2D2D27210075AA38 /* douyuproUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = douyuproUITests;
 			sourceTree = "<group>";
@@ -61,21 +61,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		478D6FD72D2D0FE80075AA38 /* Frameworks */ = {
+		478D70672D2D271E0075AA38 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		478D6FED2D2D0FED0075AA38 /* Frameworks */ = {
+		478D707D2D2D27210075AA38 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		478D6FF72D2D0FED0075AA38 /* Frameworks */ = {
+		478D70872D2D27210075AA38 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +85,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		478D6FD12D2D0FE80075AA38 = {
+		478D70612D2D271E0075AA38 = {
 			isa = PBXGroup;
 			children = (
-				478D6FDC2D2D0FE80075AA38 /* douyupro */,
-				478D6FF32D2D0FED0075AA38 /* douyuproTests */,
-				478D6FFD2D2D0FED0075AA38 /* douyuproUITests */,
-				478D6FDB2D2D0FE80075AA38 /* Products */,
+				478D706C2D2D271E0075AA38 /* douyupro */,
+				478D70832D2D27210075AA38 /* douyuproTests */,
+				478D708D2D2D27210075AA38 /* douyuproUITests */,
+				478D706B2D2D271E0075AA38 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		478D6FDB2D2D0FE80075AA38 /* Products */ = {
+		478D706B2D2D271E0075AA38 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				478D6FDA2D2D0FE80075AA38 /* douyupro.app */,
-				478D6FF02D2D0FED0075AA38 /* douyuproTests.xctest */,
-				478D6FFA2D2D0FED0075AA38 /* douyuproUITests.xctest */,
+				478D706A2D2D271E0075AA38 /* douyupro.app */,
+				478D70802D2D27210075AA38 /* douyuproTests.xctest */,
+				478D708A2D2D27210075AA38 /* douyuproUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +108,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		478D6FD92D2D0FE80075AA38 /* douyupro */ = {
+		478D70692D2D271E0075AA38 /* douyupro */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 478D70032D2D0FED0075AA38 /* Build configuration list for PBXNativeTarget "douyupro" */;
+			buildConfigurationList = 478D70932D2D27210075AA38 /* Build configuration list for PBXNativeTarget "douyupro" */;
 			buildPhases = (
-				478D6FD62D2D0FE80075AA38 /* Sources */,
-				478D6FD72D2D0FE80075AA38 /* Frameworks */,
-				478D6FD82D2D0FE80075AA38 /* Resources */,
+				478D70662D2D271E0075AA38 /* Sources */,
+				478D70672D2D271E0075AA38 /* Frameworks */,
+				478D70682D2D271E0075AA38 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				478D6FDC2D2D0FE80075AA38 /* douyupro */,
+				478D706C2D2D271E0075AA38 /* douyupro */,
 			);
 			name = douyupro;
 			packageProductDependencies = (
 			);
 			productName = douyupro;
-			productReference = 478D6FDA2D2D0FE80075AA38 /* douyupro.app */;
+			productReference = 478D706A2D2D271E0075AA38 /* douyupro.app */;
 			productType = "com.apple.product-type.application";
 		};
-		478D6FEF2D2D0FED0075AA38 /* douyuproTests */ = {
+		478D707F2D2D27210075AA38 /* douyuproTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 478D70082D2D0FED0075AA38 /* Build configuration list for PBXNativeTarget "douyuproTests" */;
+			buildConfigurationList = 478D70982D2D27210075AA38 /* Build configuration list for PBXNativeTarget "douyuproTests" */;
 			buildPhases = (
-				478D6FEC2D2D0FED0075AA38 /* Sources */,
-				478D6FED2D2D0FED0075AA38 /* Frameworks */,
-				478D6FEE2D2D0FED0075AA38 /* Resources */,
+				478D707C2D2D27210075AA38 /* Sources */,
+				478D707D2D2D27210075AA38 /* Frameworks */,
+				478D707E2D2D27210075AA38 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				478D6FF22D2D0FED0075AA38 /* PBXTargetDependency */,
+				478D70822D2D27210075AA38 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				478D6FF32D2D0FED0075AA38 /* douyuproTests */,
+				478D70832D2D27210075AA38 /* douyuproTests */,
 			);
 			name = douyuproTests;
 			packageProductDependencies = (
 			);
 			productName = douyuproTests;
-			productReference = 478D6FF02D2D0FED0075AA38 /* douyuproTests.xctest */;
+			productReference = 478D70802D2D27210075AA38 /* douyuproTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		478D6FF92D2D0FED0075AA38 /* douyuproUITests */ = {
+		478D70892D2D27210075AA38 /* douyuproUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 478D700B2D2D0FED0075AA38 /* Build configuration list for PBXNativeTarget "douyuproUITests" */;
+			buildConfigurationList = 478D709B2D2D27210075AA38 /* Build configuration list for PBXNativeTarget "douyuproUITests" */;
 			buildPhases = (
-				478D6FF62D2D0FED0075AA38 /* Sources */,
-				478D6FF72D2D0FED0075AA38 /* Frameworks */,
-				478D6FF82D2D0FED0075AA38 /* Resources */,
+				478D70862D2D27210075AA38 /* Sources */,
+				478D70872D2D27210075AA38 /* Frameworks */,
+				478D70882D2D27210075AA38 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				478D6FFC2D2D0FED0075AA38 /* PBXTargetDependency */,
+				478D708C2D2D27210075AA38 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				478D6FFD2D2D0FED0075AA38 /* douyuproUITests */,
+				478D708D2D2D27210075AA38 /* douyuproUITests */,
 			);
 			name = douyuproUITests;
 			packageProductDependencies = (
 			);
 			productName = douyuproUITests;
-			productReference = 478D6FFA2D2D0FED0075AA38 /* douyuproUITests.xctest */;
+			productReference = 478D708A2D2D27210075AA38 /* douyuproUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		478D6FD22D2D0FE80075AA38 /* Project object */ = {
+		478D70622D2D271E0075AA38 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					478D6FD92D2D0FE80075AA38 = {
+					478D70692D2D271E0075AA38 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					478D6FEF2D2D0FED0075AA38 = {
+					478D707F2D2D27210075AA38 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 478D6FD92D2D0FE80075AA38;
+						TestTargetID = 478D70692D2D271E0075AA38;
 					};
-					478D6FF92D2D0FED0075AA38 = {
+					478D70892D2D27210075AA38 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 478D6FD92D2D0FE80075AA38;
+						TestTargetID = 478D70692D2D271E0075AA38;
 					};
 				};
 			};
-			buildConfigurationList = 478D6FD52D2D0FE80075AA38 /* Build configuration list for PBXProject "douyupro" */;
+			buildConfigurationList = 478D70652D2D271E0075AA38 /* Build configuration list for PBXProject "douyupro" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 478D6FD12D2D0FE80075AA38;
+			mainGroup = 478D70612D2D271E0075AA38;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 478D6FDB2D2D0FE80075AA38 /* Products */;
+			productRefGroup = 478D706B2D2D271E0075AA38 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				478D6FD92D2D0FE80075AA38 /* douyupro */,
-				478D6FEF2D2D0FED0075AA38 /* douyuproTests */,
-				478D6FF92D2D0FED0075AA38 /* douyuproUITests */,
+				478D70692D2D271E0075AA38 /* douyupro */,
+				478D707F2D2D27210075AA38 /* douyuproTests */,
+				478D70892D2D27210075AA38 /* douyuproUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		478D6FD82D2D0FE80075AA38 /* Resources */ = {
+		478D70682D2D271E0075AA38 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		478D6FEE2D2D0FED0075AA38 /* Resources */ = {
+		478D707E2D2D27210075AA38 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		478D6FF82D2D0FED0075AA38 /* Resources */ = {
+		478D70882D2D27210075AA38 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +245,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		478D6FD62D2D0FE80075AA38 /* Sources */ = {
+		478D70662D2D271E0075AA38 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		478D6FEC2D2D0FED0075AA38 /* Sources */ = {
+		478D707C2D2D27210075AA38 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		478D6FF62D2D0FED0075AA38 /* Sources */ = {
+		478D70862D2D27210075AA38 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +269,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		478D6FF22D2D0FED0075AA38 /* PBXTargetDependency */ = {
+		478D70822D2D27210075AA38 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 478D6FD92D2D0FE80075AA38 /* douyupro */;
-			targetProxy = 478D6FF12D2D0FED0075AA38 /* PBXContainerItemProxy */;
+			target = 478D70692D2D271E0075AA38 /* douyupro */;
+			targetProxy = 478D70812D2D27210075AA38 /* PBXContainerItemProxy */;
 		};
-		478D6FFC2D2D0FED0075AA38 /* PBXTargetDependency */ = {
+		478D708C2D2D27210075AA38 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 478D6FD92D2D0FE80075AA38 /* douyupro */;
-			targetProxy = 478D6FFB2D2D0FED0075AA38 /* PBXContainerItemProxy */;
+			target = 478D70692D2D271E0075AA38 /* douyupro */;
+			targetProxy = 478D708B2D2D27210075AA38 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		478D70042D2D0FED0075AA38 /* Debug */ = {
+		478D70942D2D27210075AA38 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -310,7 +310,7 @@
 			};
 			name = Debug;
 		};
-		478D70052D2D0FED0075AA38 /* Release */ = {
+		478D70952D2D27210075AA38 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -338,7 +338,7 @@
 			};
 			name = Release;
 		};
-		478D70062D2D0FED0075AA38 /* Debug */ = {
+		478D70962D2D27210075AA38 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -401,7 +401,7 @@
 			};
 			name = Debug;
 		};
-		478D70072D2D0FED0075AA38 /* Release */ = {
+		478D70972D2D27210075AA38 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -457,7 +457,7 @@
 			};
 			name = Release;
 		};
-		478D70092D2D0FED0075AA38 /* Debug */ = {
+		478D70992D2D27210075AA38 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -476,7 +476,7 @@
 			};
 			name = Debug;
 		};
-		478D700A2D2D0FED0075AA38 /* Release */ = {
+		478D709A2D2D27210075AA38 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -495,7 +495,7 @@
 			};
 			name = Release;
 		};
-		478D700C2D2D0FED0075AA38 /* Debug */ = {
+		478D709C2D2D27210075AA38 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -512,7 +512,7 @@
 			};
 			name = Debug;
 		};
-		478D700D2D2D0FED0075AA38 /* Release */ = {
+		478D709D2D2D27210075AA38 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -532,43 +532,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		478D6FD52D2D0FE80075AA38 /* Build configuration list for PBXProject "douyupro" */ = {
+		478D70652D2D271E0075AA38 /* Build configuration list for PBXProject "douyupro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				478D70062D2D0FED0075AA38 /* Debug */,
-				478D70072D2D0FED0075AA38 /* Release */,
+				478D70962D2D27210075AA38 /* Debug */,
+				478D70972D2D27210075AA38 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		478D70032D2D0FED0075AA38 /* Build configuration list for PBXNativeTarget "douyupro" */ = {
+		478D70932D2D27210075AA38 /* Build configuration list for PBXNativeTarget "douyupro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				478D70042D2D0FED0075AA38 /* Debug */,
-				478D70052D2D0FED0075AA38 /* Release */,
+				478D70942D2D27210075AA38 /* Debug */,
+				478D70952D2D27210075AA38 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		478D70082D2D0FED0075AA38 /* Build configuration list for PBXNativeTarget "douyuproTests" */ = {
+		478D70982D2D27210075AA38 /* Build configuration list for PBXNativeTarget "douyuproTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				478D70092D2D0FED0075AA38 /* Debug */,
-				478D700A2D2D0FED0075AA38 /* Release */,
+				478D70992D2D27210075AA38 /* Debug */,
+				478D709A2D2D27210075AA38 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		478D700B2D2D0FED0075AA38 /* Build configuration list for PBXNativeTarget "douyuproUITests" */ = {
+		478D709B2D2D27210075AA38 /* Build configuration list for PBXNativeTarget "douyuproUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				478D700C2D2D0FED0075AA38 /* Debug */,
-				478D700D2D2D0FED0075AA38 /* Release */,
+				478D709C2D2D27210075AA38 /* Debug */,
+				478D709D2D2D27210075AA38 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 478D6FD22D2D0FE80075AA38 /* Project object */;
+	rootObject = 478D70622D2D271E0075AA38 /* Project object */;
 }
