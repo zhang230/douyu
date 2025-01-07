@@ -27,23 +27,41 @@
 		478D706A2D2D271E0075AA38 /* douyupro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = douyupro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		478D70802D2D27210075AA38 /* douyuproTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = douyuproTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		478D708A2D2D27210075AA38 /* douyuproUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = douyuproUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		47ECCB222D2D536A003AB60C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = douyupro/Classes/Main/Base.lproj/Home.storyboard; sourceTree = "<group>"; };
+		47ECCB2B2D2D538C003AB60C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = douyupro/Classes/Main/Base.lproj/Live.storyboard; sourceTree = "<group>"; };
+		47ECCB342D2D53C5003AB60C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = douyupro/Classes/Main/Base.lproj/Follow.storyboard; sourceTree = "<group>"; };
+		47ECCB3D2D2D53DD003AB60C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = douyupro/Classes/Main/Base.lproj/Profile.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		478D70922D2D27210075AA38 /* Exceptions for "douyupro" folder in "douyupro" target */ = {
+		47ECCB502D2D642B003AB60C /* Exceptions for "douyupro" folder in "douyupro" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				"/Localized: Classes/Main/MainViewController.swift",
+				"/Localized: LaunchScreen.storyboard",
+				Assets.xcassets,
 				Info.plist,
 			);
 			target = 478D70692D2D271E0075AA38 /* douyupro */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		47ECCB542D2D6690003AB60C /* Exceptions for "douyupro" folder in "Compile Sources" phase from "douyupro" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 478D70662D2D271E0075AA38 /* Sources */;
+			membershipExceptions = (
+				"/Localized: Classes/Main/MainViewController.swift",
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		478D706C2D2D271E0075AA38 /* douyupro */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				478D70922D2D27210075AA38 /* Exceptions for "douyupro" folder in "douyupro" target */,
+				47ECCB502D2D642B003AB60C /* Exceptions for "douyupro" folder in "douyupro" target */,
+				47ECCB542D2D6690003AB60C /* Exceptions for "douyupro" folder in "Compile Sources" phase from "douyupro" target */,
 			);
 			path = douyupro;
 			sourceTree = "<group>";
@@ -88,6 +106,10 @@
 		478D70612D2D271E0075AA38 = {
 			isa = PBXGroup;
 			children = (
+				47ECCB3C2D2D53DD003AB60C /* Profile.storyboard */,
+				47ECCB332D2D53C5003AB60C /* Follow.storyboard */,
+				47ECCB2A2D2D538C003AB60C /* Live.storyboard */,
+				47ECCB212D2D536A003AB60C /* Home.storyboard */,
 				478D706C2D2D271E0075AA38 /* douyupro */,
 				478D70832D2D27210075AA38 /* douyuproTests */,
 				478D708D2D2D27210075AA38 /* douyuproUITests */,
@@ -114,7 +136,7 @@
 			buildPhases = (
 				478D70662D2D271E0075AA38 /* Sources */,
 				478D70672D2D271E0075AA38 /* Frameworks */,
-				478D70682D2D271E0075AA38 /* Resources */,
+				47ECCB4F2D2D642B003AB60C /* Resources */,
 			);
 			buildRules = (
 			);
@@ -221,13 +243,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		478D70682D2D271E0075AA38 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		478D707E2D2D27210075AA38 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -236,6 +251,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		478D70882D2D27210075AA38 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		47ECCB4F2D2D642B003AB60C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -281,6 +303,41 @@
 		};
 /* End PBXTargetDependency section */
 
+/* Begin PBXVariantGroup section */
+		47ECCB212D2D536A003AB60C /* Home.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				47ECCB222D2D536A003AB60C /* Base */,
+			);
+			name = Home.storyboard;
+			sourceTree = "<group>";
+		};
+		47ECCB2A2D2D538C003AB60C /* Live.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				47ECCB2B2D2D538C003AB60C /* Base */,
+			);
+			name = Live.storyboard;
+			sourceTree = "<group>";
+		};
+		47ECCB332D2D53C5003AB60C /* Follow.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				47ECCB342D2D53C5003AB60C /* Base */,
+			);
+			name = Follow.storyboard;
+			sourceTree = "<group>";
+		};
+		47ECCB3C2D2D53DD003AB60C /* Profile.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				47ECCB3D2D2D53DD003AB60C /* Base */,
+			);
+			name = Profile.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
 		478D70942D2D27210075AA38 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -288,6 +345,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CLANG_ADDRESS_SANITIZER_CONTAINER_OVERFLOW = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 5T2YLYAMZ6;
@@ -317,6 +375,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CLANG_ADDRESS_SANITIZER_CONTAINER_OVERFLOW = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 5T2YLYAMZ6;
